@@ -1,2 +1,2 @@
 class test(object):
-    a="sdfesgdfhg"
+    a="123134"
