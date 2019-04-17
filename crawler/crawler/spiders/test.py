@@ -1,2 +1,2 @@
 class test(object):
-    pass
+    a="123134"
